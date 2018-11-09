@@ -5,8 +5,8 @@ public class separado
         
     }
     public static double sumar (double A,double B){
-        double resultado=0;
-        double result=A+B;
+        int  resultado=0;
+        int  result=A+B;
          return result; 
     }
     public static double restar (double A,double B){
